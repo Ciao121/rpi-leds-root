@@ -1,8 +1,8 @@
 # rpi-leds [![Circle CI](https://circleci.com/gh/taktran/rpi-leds.svg?style=svg)](https://circleci.com/gh/taktran/rpi-leds)
 
-Node.js library to control Raspberry Pi onboard LEDs.
+Node.js library to control Raspberry Pi onboard LEDs to be used as root (avoiding sudo and auth logging for each command)
 
-Currently only tested on the Raspberry Pi 2.
+Currently tested on the Raspberry Pi 2 & Pi 4.
 
 ## Usage
 
