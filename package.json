@@ -1,14 +1,14 @@
 {
   "name": "rpi-leds",
   "version": "0.0.3",
-  "description": "Node.js library to control Raspberry Pi onboard LEDs",
+  "description": "Node.js library to control Raspberry Pi onboard LEDs for root user",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:taktran/rpi-leds.git"
+    "url": "git@github.com:ciao121/rpi-leds-root-user.git"
   },
   "keywords": [
     "rpi",
@@ -19,7 +19,7 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "author": "Tak Tran <contact@tutaktran.com>",
+  "author": "Ciao121 <ivan@spadacenta.com>",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.8.11",
