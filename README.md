@@ -8,11 +8,11 @@ Currently tested on the Raspberry Pi 2 & Pi 4.
 
 Install it
 
-    npm install rpi-leds
+    npm install rpi-leds-root-user
 
 Include it
 
-    var RpiLeds = require('rpi-leds');
+    var RpiLeds = require('rpi-leds-root-user');
     var leds = new RpiLeds();
 
 ### Commands
