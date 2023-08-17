@@ -1,4 +1,4 @@
-# rpi-leds [![Circle CI](https://circleci.com/gh/taktran/rpi-leds.svg?style=svg)](https://circleci.com/gh/taktran/rpi-leds)
+# rpi-leds-root
 
 Node.js library to control Raspberry Pi onboard LEDs to be used as root (avoiding sudo and auth logging for each command)
 
@@ -8,11 +8,11 @@ Currently tested on the Raspberry Pi 2 & Pi 4.
 
 Install it
 
-    npm install rpi-leds-root-user
+    npm install rpi-leds-root
 
 Include it
 
-    var RpiLeds = require('rpi-leds-root-user');
+    var RpiLeds = require('rpi-leds-root');
     var leds = new RpiLeds();
 
 ### Commands
