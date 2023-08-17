@@ -1,5 +1,5 @@
 {
-  "name": "rpi-leds",
+  "name": "rpi-leds-root",
   "version": "0.0.3",
   "description": "Node.js library to control Raspberry Pi onboard LEDs for root user",
   "main": "index.js",
